@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;config&apos; to &apos;jdbc06_broker_2tier/src&apos;&#x0D;&#x0A;- Original project: &apos;jdbc04_BookBusiness_usecaseUML&apos;&#x0D;&#x0A;- Destination element: &apos;jdbc06_broker_2tier/src&apos;&#x0D;&#x0A;- Original element: &apos;jdbc04_BookBusiness_usecaseUML/src/config&apos;" description="Copy package" destination="=jdbc06_broker_2tier/src" element1="/src&lt;config" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1616463086182" version="1.0"/>
+</session>
